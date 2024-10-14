@@ -4,7 +4,7 @@
 #mayúsculas y otra solo con la primera letra del nombre y de los apellidos en
 #mayúscula. El usuario puede introducir su nombre combinando mayúsculas y
 #minúsculas como quiera.
-Nombre = input (' Como te llamas')
+Nombre = input('Como te llamas:')
 print(Nombre.lower())
 print(Nombre.upper())
 print(Nombre.title())
